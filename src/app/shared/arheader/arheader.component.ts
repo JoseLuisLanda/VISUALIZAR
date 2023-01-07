@@ -76,26 +76,34 @@ export class ARHeaderComponent implements OnInit, OnChanges {
   "../../../assets/models/t-shirt.glb",
   "../../../assets/models/t-shirtone.glb",
   "../../../assets/models/skirt_and_t-shirt.glb",
-  "../../../assets/models/std_t-shirt.glb",
+  "../../../assets/models/std_t-shirt.glb",//45
   "../../../assets/models/tenis_surrado.glb",
 
   "../../../assets/models/charging_bull.glb",
   "../../../assets/models/bull_man.glb",
   "../../../assets/models/bull_for_3d_printing.glb",
   "../../../assets/models/bull_basemesh.glb",
-  "../../../assets/models/blue_bull_miniature.glb",
+  "../../../assets/models/blue_bull_miniature.glb",//51
   
 
 
 
   "../../../assets/models/ToyCar.glb",//5.74
   "../../../assets/models/shishkebab.glb",//1.53
-  "../../../assets/models/RobotExpressive.glb",//520 kb
+  "../../../assets/models/RobotExpressive.glb",//520 kb  54
    "../../../assets/models/santa_clauss.glb",//17.58
   "../../../assets/models/catrina_girl.glb",//19.56
 
-  "../../../assets/models/altar_de_dia_de_muertos.glb",
-  "../../../assets/models/the_day_of_the_dead.glb",
+  "../../../assets/models/altar_de_dia_de_muertos.glb",//57
+  "../../../assets/models/the_day_of_the_dead.glb",//58
+
+  "../../../assets/models/chase.glb",//
+  "../../../assets/models/duende_3d.glb",//
+  "../../../assets/models/duende.glb",//
+  "../../../assets/models/everest.glb",//62
+  "../../../assets/models/funko.glb",//
+  "../../../assets/models/marshall.glb",
+  
 ];
   constructor() { }
   ngOnChanges(changes: SimpleChanges): void {
